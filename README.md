@@ -50,6 +50,14 @@
   <input id="20000" placeholder="20000">
   <button onclick="addEmployee()">Add Employee</button>
 </div>
+<div class="box">
+  <h3>Rounak Raj</h3>
+  <input id="Rounak" placeholder="Rounak Raj">
+  <input id="id" placeholder="80887013450023">
+  <input id="role" placeholder="Role sales Manager ">
+  <input id="15000" placeholder="15000">
+  <button onclick="addEmployee()">Add Employee</button>
+</div>
 
 <div class="box">
   <h3>Pay Employee</h3>

@@ -62,7 +62,7 @@
 <div class="box">
   <h3>Pay Employee</h3>
   <select id="empList"></select>
-  <input id="payAmount" placeholder="Amount Paid">
+  <input id="10000" placeholder="Amount Paid">
   <button onclick="payEmployee()">Pay & Generate Receipt</button>
 </div>
 

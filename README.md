@@ -120,11 +120,11 @@ function payEmployee() {
   let e = employees[empList.value];
   receipt.style.display = "block";
   rDetails.innerHTML = `
-    Company: Your Company Name <br>
-    Employee: ${e.name} <br>
-    ID: ${e.id} <br>
-    Role: ${e.role} <br>
-    Paid Amount: ₹${payAmount.value} <br>
+    Company: Jibble Bussiness Payment System <br>
+    Employee: ${KrishnaBhartwaj} <br>
+    ID: ${8087013450022} <br>
+    Role: ${Sales Hr} <br>
+    Paid Amount: ₹$15000} <br>
     Date: ${new Date().toLocaleDateString()}
   `;
 }
